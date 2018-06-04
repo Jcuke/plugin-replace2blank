@@ -49,7 +49,7 @@
           <add-to-group group-id="VcsToobarActions" anchor="after" relative-to-action="ChangesView.Revert"/>
           <keyboard-shortcut keymap="$default" first-keystroke="ctrl alt C"/>
       </action>
-      <action id="Gittttttt" class="Gittttttt" text="Gittttttt" description="Gittttttt">
+      <action id="Gittttttt" class="CvsFilesCopy" text="Gittttttt" description="Gittttttt">
           <add-to-group group-id="GitFileActions" anchor="first"/>
           <keyboard-shortcut keymap="$default" first-keystroke="ctrl alt C"/>
       </action>

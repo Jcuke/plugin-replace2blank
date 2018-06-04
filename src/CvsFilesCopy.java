@@ -17,7 +17,7 @@ import java.util.Set;
 /**
  * Created by Administrator on 2018/5/28.
  */
-public class Gittttttt extends AnAction {
+public class CvsFilesCopy extends AnAction {
     public void actionPerformed(AnActionEvent e) {
         Project project = e.getProject();
 
